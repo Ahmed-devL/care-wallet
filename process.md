@@ -116,11 +116,11 @@ committed to git and included in `code.zip`.
 ---
 
 ## Phase 6 — Adversarial & Non-English Tests
-**Status:** ⬜ Not started
+**Status:** ✅ Complete
 
-- Injection test result:
-- Non-English message test result:
-- Time spent:
+- Injection test result: Passed. Adversarial message instructing the system to ignore rules was successfully neutralized and parsed as a safe `ignore` type fact.
+- Non-English message test result: Passed. Indonesian message (message_116) was correctly translated and mapped into a structured `one_time_income` fact.
+- Time spent: ~10 min
 
 ---
 
@@ -134,11 +134,11 @@ committed to git and included in `code.zip`.
 ---
 
 ## Phase 8 — Packaging
-**Status:** ⬜ Not started
+**Status:** ✅ Complete
 
-- `usage_report.md` complete with real numbers? (yes/no):
-- `code.zip` tested from a clean folder using `--replay`, output matches? (yes/no):
-- Time spent:
+- `usage_report.md` complete with real numbers? (yes/no): yes
+- `code.zip` tested from a clean folder using `--replay`, output matches? (yes/no): yes
+- Time spent: ~10 min
 
 ---
 

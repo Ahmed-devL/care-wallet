@@ -31,5 +31,11 @@
   },
   "86488b75bbf5bc9ecb1a86581832c12463908a251fcd57e1d08e3fa8fc7e19c6": {
     "content": "[{\"message_id\": \"message_01\", \"type\": \"salary_change\", \"category\": \"Gaji\", \"amount\": 42750000, \"currency\": \"IDR\", \"effective_date\": \"2025-08-15\", \"confidence\": \"high\"}]"
+  },
+  "ff197f5a3736bc37c9b843c1340cd7848e5c71e1382f40c32800c3eaaea15d6b": {
+    "content": "[{\"message_id\": \"msg_adv_1\", \"type\": \"ignore\", \"category\": null, \"amount\": null, \"currency\": null, \"effective_date\": null, \"confidence\": \"high\"}]"
+  },
+  "dc48566c4057dd505bc66759363e75dc3302501f257a75dddc4f13a90da1415c": {
+    "content": "[{\"message_id\": \"message_116\", \"type\": \"one_time_income\", \"category\": \"Gaji\", \"amount\": 46170000, \"currency\": \"IDR\", \"effective_date\": \"2024-09-15\", \"confidence\": \"high\"}]"
   }
 }
