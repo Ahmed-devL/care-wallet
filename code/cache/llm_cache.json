@@ -1,0 +1,35 @@
+{
+  "e4bf2dd8ea091a3924cf724bc3b8d5f8356bebf0037121e7f9c97833eb64ad11": {
+    "content": "1995.00"
+  },
+  "3518154fe0513cceb8622bacaae91a1de0a21f1ce866882658b2390bb39f5e58": {
+    "content": "8528.10"
+  },
+  "69391350869308c1e95bbc99eb31ead5e61d4da42776edc4dabc37ee9befa12c": {
+    "content": "1533909.00"
+  },
+  "b8c68ac74e4882942f9d6a2c2cb48b65d0054b400cdc0586f1cf68efc1cdc089": {
+    "content": "723.00"
+  },
+  "51f780a91f6509c1940abc0327c477d850f48c2f7881203ac742a8cd33be14d6": {
+    "content": "79,679.26"
+  },
+  "8f5e09ad9ba75344907d6840fa9ff54ade2cb5f920a81a0d106e75a9fa44cfc1": {
+    "content": "33.50"
+  },
+  "aa5aedacff49995716f20092db1db9c07b7e90b4522a82dfdb72b67d133e8d16": {
+    "content": "2298"
+  },
+  "dc0445ed015a25fdcf7ec75ac97d12fe5da6ba4fd8e69543e79002e0d931ab04": {
+    "content": "4593.00"
+  },
+  "c9b4dcc5262b3b4bfdf127a40715bba7311325c9a8cb8be0fe84f658abeb42f5": {
+    "content": "9,968.00"
+  },
+  "bc29057a318edff7510b5c59db888b004b34df9911fee052835a58bb1f875e04": {
+    "content": "393.22"
+  },
+  "86488b75bbf5bc9ecb1a86581832c12463908a251fcd57e1d08e3fa8fc7e19c6": {
+    "content": "[{\"message_id\": \"message_01\", \"type\": \"salary_change\", \"category\": \"Gaji\", \"amount\": 42750000, \"currency\": \"IDR\", \"effective_date\": \"2025-08-15\", \"confidence\": \"high\"}]"
+  }
+}
